@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% trans %}$0{% endtrans %}
+]]></content>
+	<tabTrigger>trans</tabTrigger>
+		<scope>text.html</scope>
+</snippet>

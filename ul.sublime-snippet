@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<ul class="$1">
+	<li class="$2">
+		$0
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>ul</tabTrigger>
+		<scope>text.html</scope>
+</snippet>

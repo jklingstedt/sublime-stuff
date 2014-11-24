@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{% set $1 = '$0' %}
+]]></content>
+	<tabTrigger>set</tabTrigger>
+		<string>source.jinja</string>
+</snippet>

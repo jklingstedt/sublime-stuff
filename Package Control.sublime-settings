@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"Browser Refresh",
+		"Emmet",
+		"FileBrowser",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Hyperion for gettext",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SCSS Snippets",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"WordPress",
+		"Zap Gremlins"
+	]
+}
