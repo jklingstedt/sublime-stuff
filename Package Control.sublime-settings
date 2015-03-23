@@ -1,7 +1,11 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Browser Refresh",
+		"ColdFusion",
 		"Emmet",
 		"FileBrowser",
 		"Git",
@@ -20,6 +24,7 @@
 		"SCSS",
 		"SCSS Snippets",
 		"SublimeLinter",
+		"Theme - Afterglow",
 		"Theme - Flatland",
 		"Theme - Soda",
 		"WordPress",
