@@ -1,0 +1,8 @@
+{
+	"dired_jump_points":
+	{
+		"ecommerce": "/Users/jklingstedt/dev/srv/"
+	},
+    "dired_show_hidden_files": false,
+    "dired_hidden_files_patterns": [".*", "__pycache__", "*.pyc"]
+}
