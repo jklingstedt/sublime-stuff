@@ -1,8 +1,22 @@
 {
+	"dired_hidden_files_patterns":
+	[
+		".*",
+		"__pycache__",
+		"*.pyc",
+		"*.map"
+	],
 	"dired_jump_points":
 	{
 		"ecommerce": "/Users/jklingstedt/dev/srv/"
 	},
-    "dired_show_hidden_files": false,
-    "dired_hidden_files_patterns": [".*", "__pycache__", "*.pyc"]
+	"dired_show_hidden_files": false,
+	"dired_to_copy":
+	[
+		"/Users/jklingstedt/dev/srv/web/static/js/"
+	],
+	"dired_to_move":
+	[
+	]
 }
+	

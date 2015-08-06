@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include bp(large) {
+    $0
+}
+
+]]></content>
+	<tabTrigger>bp</tabTrigger>
+		<scope>source.scss</scope>
+</snippet>
