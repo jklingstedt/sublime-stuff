@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+    {% from "$1:$2.html" import $3 %}
+    $0
+]]></content>
+	<tabTrigger>import</tabTrigger>
+		<string>source.jinja</string>
+</snippet>
